@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Hello {
 
+    //This comment is for lab6
     public static void main(String[] args) {
         System.out.print("Hello. What is your name? ");
         Scanner sc = new Scanner(System.in);
